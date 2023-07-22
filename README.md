@@ -1,3 +1,6 @@
+![image](https://github.com/BhavyaSharma0212/next.js-tailwind/assets/82492348/4d997a5e-1a44-497c-8f68-eaf124dcf281)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
